@@ -1,3 +1,7 @@
 pandas
 matplotlib
 numpy
+jupyter
+ipykernel
+notebook
+scikit-learn
