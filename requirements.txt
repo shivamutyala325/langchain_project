@@ -5,3 +5,7 @@ jupyter
 ipykernel
 notebook
 scikit-learn
+sys
+logging
+datetime
+os
